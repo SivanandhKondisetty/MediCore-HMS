@@ -1,0 +1,13 @@
+# Compiled class files 
+*.class 
+ 
+# IDE files 
+.idea/ 
+.eclipse/ 
+.classpath 
+.project 
+.settings/ 
+ 
+# OS files 
+.DS_Store 
+Thumbs.db 
